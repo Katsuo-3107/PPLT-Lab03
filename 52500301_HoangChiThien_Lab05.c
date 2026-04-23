@@ -45,7 +45,7 @@ void normalize(char s[]){
             temp[j++] = ' ';
             while(s[i]==' ') i++; 
             newWord = 1;
-        }
+       add }
         else{
             if(newWord){
                 // uppercase first char
